@@ -1,4 +1,4 @@
 // Add your functions and code here
 var kittens = ["Milo", "Otis", "Garfield"];
 
-var appendKittens = kittens.
+var appendKittens = kittens.push()
